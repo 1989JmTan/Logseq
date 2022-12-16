@@ -24,7 +24,29 @@
 		- 初次运行前配置
 			- 查看所有配置
 				- ```
-				  git config --list
+				  admin@DESKTOP-0G0C1JA MINGW64 ~
+				  $ git config --list
+				  diff.astextplain.textconv=astextplain
+				  filter.lfs.clean=git-lfs clean -- %f
+				  filter.lfs.smudge=git-lfs smudge -- %f
+				  filter.lfs.process=git-lfs filter-process
+				  filter.lfs.required=true
+				  http.sslbackend=openssl
+				  http.sslcainfo=D:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+				  core.autocrlf=true
+				  core.fscache=true
+				  core.symlinks=false
+				  pull.rebase=false
+				  credential.helper=manager
+				  credential.https://dev.azure.com.usehttppath=true
+				  init.defaultbranch=master
+				  user.name=Jim Tan
+				  user.email=jm.tan@outlook.com
+				  credential.helper=wincred
+				  gui.recentrepo=D:/Program Files/Python2020/This is my python
+				  
+				  admin@DESKTOP-0G0C1JA MINGW64 ~
+				  
 				  ```
 				- ![image.png](../assets/image_1671189857513_0.png)
 			-
