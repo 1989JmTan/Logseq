@@ -16,7 +16,9 @@
 			  ```
 	- 下载本地Git
 		- Git下载地址:  https://git-scm.com/download/win
-		- 编写同步脚本
+		- 安装Git
+			- ![image.png](../assets/image_1671188503394_0.png)
+			-
 		- 进行同步调试
 	- 进行数据同步
 -
