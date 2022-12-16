@@ -22,7 +22,7 @@
 		- 安装Git步骤截图
 			- 安装路径选择，默认是C盘，但可以自行修改路径
 		- 初次运行前配置
-			- 查看所有配置`git config --lsit`
+			- 用命令`git config --lsit`查看配置
 				- ![image.png](../assets/image_1671189857513_0.png)
 			-
 	- 进行数据同步
