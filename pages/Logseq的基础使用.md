@@ -20,12 +20,12 @@
 	- 下载本地Git
 		- Git下载地址:  https://git-scm.com/download/win
 		- 安装Git
+		  collapsed:: true
 			- ![image.png](../assets/image_1671188503394_0.png)
 			- ![image.png](../assets/image_1671188594151_0.png)
 			-
 			-
 			-
-		- 进行同步调试
 	- 进行数据同步
 -
 -
