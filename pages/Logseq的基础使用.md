@@ -15,7 +15,7 @@
 			  and the repository exists.
 			  ```
 	- 下载本地GitHub Docs
-		- GitHub Docs 下载地址:  https://desktop.github.com/
+		- GitHub Docs 下载地址:  https://git-scm.com/download/win
 		- 编写同步脚本
 		- 进行同步调试
 	- 进行数据同步
