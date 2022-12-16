@@ -19,7 +19,9 @@
 			  ```
 	- 安装本地Git
 		- Git下载地址:  https://git-scm.com/download/win
-		- [[安装Git步骤截图]]
+		- 安装Git步骤截图
+			- 安装路径选择，默认是C盘，但可以自行修改路径
+			- ![](assets://D:/Logseq/assets/image_1671188503394_0.png)
 			-
 			-
 			-
