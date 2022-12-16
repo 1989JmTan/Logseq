@@ -15,7 +15,7 @@
 			  and the repository exists.
 			  ```
 	- 下载本地GitHub Docs
-		- 本地安装GitHub /link
+		- 本地安装GitHub:  https://desktop.github.com/
 		- 编写同步脚本
 		- 进行同步调试
 	- 进行数据同步
