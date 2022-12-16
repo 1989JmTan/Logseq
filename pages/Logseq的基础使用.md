@@ -19,9 +19,7 @@
 			  ```
 	- 安装本地Git
 		- Git下载地址:  https://git-scm.com/download/win
-		- 安装Git步骤截图
-			- ![image.png](../assets/image_1671188503394_0.png)
-			- ![image.png](../assets/image_1671188594151_0.png)
+		- [[安装Git步骤截图]]
 			-
 			-
 			-
