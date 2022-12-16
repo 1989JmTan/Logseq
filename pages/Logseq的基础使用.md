@@ -17,10 +17,9 @@
 			  Please make sure you have the correct access rights
 			  and the repository exists.
 			  ```
-	- 下载本地Git
+	- 安装本地Git
 		- Git下载地址:  https://git-scm.com/download/win
-		- 安装Git
-		  collapsed:: true
+		- 安装Git步骤截图
 			- ![image.png](../assets/image_1671188503394_0.png)
 			- ![image.png](../assets/image_1671188594151_0.png)
 			-
