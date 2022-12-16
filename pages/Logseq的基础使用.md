@@ -25,7 +25,9 @@
 			- 用命令`git config --lsit 或者git config --list --show-origin`查看配置
 				- ![image.png](../assets/image_1671189857513_0.png)
 				- ![image.png](../assets/image_1671190250140_0.png)
-			- 配置
+			- 配置用户名
+				- `git config --global user.name "用户名"`
+				- `git config --global user.name "用户名"`
 	- 进行数据同步
 -
 -
