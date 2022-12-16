@@ -1,6 +1,6 @@
 - 基础操作
 - 插件安装
-- GitHub 同步策略
+- [[GitHub 同步策略]]
 	- 登录GitHub,创建自己的Logseq仓库
 		- 点击[New repository]
 			- ![image.png](../assets/image_1671175508127_0.png){:height 271, :width 560}
