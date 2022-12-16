@@ -25,6 +25,8 @@
 			- ```
 			  git config --list
 			  ```
+				- ![image.png](../assets/image_1671189857513_0.png)
+			-
 	- 进行数据同步
 -
 -
