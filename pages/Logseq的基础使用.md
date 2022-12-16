@@ -7,11 +7,7 @@
 		- 在[**Repository name**]输入仓库名称，[**Description**]输入描述，选择pubic或 private
 			- ![image.png](../assets/image_1671175670716_0.png)
 		- 获取到Logseq的仓库地址：  https://github.com/1989JmTan/Logseq
-			- ""
-			- ssh: connect to host github.com port 22: Connection timed out
-			  fatal: Could not read from remote repository.
-			- Please make sure you have the correct access rights
-			  and the repository exists.
+			- ''
 	- 下载本地GitHub,与Logseq仓库链接
 		- 本地安装GitHub
 		- 编写同步脚本
