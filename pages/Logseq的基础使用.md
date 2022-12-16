@@ -14,7 +14,7 @@
 			  Please make sure you have the correct access rights
 			  and the repository exists.
 			  ```
-	- 下载本地GitHub,与Logseq仓库链接
+	- 下载本地GitHub Docs
 		- 本地安装GitHub
 		- 编写同步脚本
 		- 进行同步调试
