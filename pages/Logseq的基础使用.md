@@ -22,9 +22,10 @@
 		- 安装Git步骤截图
 			- 安装路径选择，默认是C盘，但可以自行修改路径
 		- 初次运行前配置
-			- ```
-			  git config --list
-			  ```
+			- 查看所有配置
+				- ```
+				  git config --list
+				  ```
 				- ![image.png](../assets/image_1671189857513_0.png)
 			-
 	- 进行数据同步
