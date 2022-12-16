@@ -1,4 +1,6 @@
--
-- ![image.png](../assets/image_1671188503394_0.png)
-- ![image.png](../assets/image_1671188594151_0.png)
--
+- 安装路径
+	- ![image.png](../assets/image_1671188503394_0.png)
+	-
+	-
+	- ![image.png](../assets/image_1671188594151_0.png)
+	-
